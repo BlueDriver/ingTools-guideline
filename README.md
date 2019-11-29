@@ -6,9 +6,11 @@
 
 交流QQ群：`933819491`
 
-> 注意：本插件的IDEA开发版本为`2018.1`， 为确保正常使用，请尽可能使用相近版本，兼容性问题请反馈给[wucp26649@hundsun.com](wucp26649@hundsun.com)，本地如何导入插件项目，参见[这里](<https://github.com/BlueDriver/ingTools/blob/master/help.md>)
+> 注意：本插件的IDEA开发版本为`2018.1`， 为确保正常使用，请尽可能使用相近版本，兼容性问题请反馈给[wucp26649@hundsun.com](wucp26649@hundsun.com)
 
 ## 1. 本地安装插件
+
+> 本插件下载请移步至 [这里](https://github.com/BlueDriver/ingTools-guideline/tree/master/ingTools)，建议下载**最新版本**
 
 ### 1.1  打开设置，按照下图步骤点击
 
