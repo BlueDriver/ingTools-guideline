@@ -8,17 +8,19 @@
 
 > 注意：本插件的IDEA开发版本为`2018.1`， 为确保正常使用，请尽可能使用相近版本，兼容性问题请反馈给[wucp26649@hundsun.com](wucp26649@hundsun.com)
 
-## 1. 本地安装插件
+## 1. 安装插件
 
-> 本插件下载请移步至 [这里](https://github.com/BlueDriver/ingTools-guideline/tree/master/ingTools)，建议下载**最新版本**
+> 本插件下载请移步至 [这里](https://plugins.jetbrains.com/plugin/13472-ingtools/)，建议下载**最新版本**
 
-### 1.1  打开设置，按照下图步骤点击
+### 1.1 打开设置
 
-![1572007655976](README.assets/1572007655976.png)
+![1575962672438](assets/1575962672438.png)
 
-### 1.2  选择本插件压缩包，OK后重启IDEA
+### 1.2 搜索本插件
 
-![1572007778151](README.assets/1572007778151.png)
+![1575962775112](assets/1575962775112.png)
+
+### 1.3 点击安装后重启即可
 
 ## 2. 功能介绍
 
